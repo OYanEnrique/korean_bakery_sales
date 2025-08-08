@@ -1,4 +1,4 @@
-[Read in English](README.md) 
+[Read in Portuguese](README.pt.md) 
 
 ---
 
@@ -26,7 +26,7 @@ This project showcases a full-year sales analysis of a bakery, based on 10,840 c
 
 ![Number of sales per day](numero_de_vendas_por_dia.png) 
 
-![Number of sales over time](vendas_alo_longo_do_tempo.png) 
+![Number of sales over time](vendas_ao_longo_do_tempo.png) 
 
 ### ⏰ Sales by Hour of the Day 
 - Peak sales occur between **11 AM and 2 PM**, around lunch. 
@@ -41,7 +41,7 @@ This project showcases a full-year sales analysis of a bakery, based on 10,840 c
 
 ## 📁 Files 
 - `bakery_sales_analysis.ipynb`: notebook with full analysis 
-- `dataset`: [Bakery Sales - Kaggle] (https://www.kaggle.com/datasets/hosubjeong/bakery-sales)
+- `dataset`: [Bakery Sales - Kaggle](https://www.kaggle.com/datasets/hosubjeong/bakery-sales)
 - `imgs/`: visualizations of the data 
 
 ## ✨ Technologies Used 
