@@ -41,7 +41,7 @@ This project showcases a full-year sales analysis of a bakery, based on 10,840 c
 
 ## 📁 Files 
 - `bakery_sales_analysis.ipynb`: notebook with full analysis 
-- `dataset`: [Bakery Sales - Kaggle] (https://www.kaggle.com/datasets/hosubjeong/bakery-sales)
+- `dataset`: ![Bakery Sales - Kaggle](https://www.kaggle.com/datasets/hosubjeong/bakery-sales)
 - `imgs/`: visualizations of the data 
 
 ## ✨ Technologies Used 
