@@ -16,8 +16,8 @@ Este projeto apresenta uma análise de um ano inteiro de vendas de uma padaria, 
 
 ### 🥖 Produtos Mais Vendidos
 - **Pão doce de feijão** é o produto mais vendido, disparado.
-- **Croissant, pão simples e croissant tiramisù** também têm bom desempenho.
-- Produtos com vendas muito baixas (ex: tiramisù, limonada) podem precisar de reavaliação.
+- **Croissant, pão simples e croissant tiramisu** também têm bom desempenho.
+- Produtos com vendas muito baixas (ex: tiramisu, limonada) podem precisar de reavaliação.
 
 ![Produtos mais vendidos](produtos_mais_vendidos.png)
 
@@ -39,7 +39,7 @@ Este projeto apresenta uma análise de um ano inteiro de vendas de uma padaria, 
 ## 💡 Recomendações
 - **Aproveitar a popularidade do pão doce de feijão** com promoções e variações.
 - **Otimizar o estoque** com base nos dias e horários de pico.
-- **Criar ações promocionais às terças-feiras** para aumentar o fluxo.
+- **Criar ações promocionais às segundas e terças-feiras** para aumentar o fluxo.
 - **Reavaliar produtos com baixo desempenho** para cortar perdas ou melhorar o marketing.
 
 ## 📁 Arquivos
