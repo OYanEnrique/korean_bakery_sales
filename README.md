@@ -36,7 +36,7 @@ This project showcases a full-year sales analysis of a bakery, based on 10,840 c
 ## 💡 Recommendations 
 - **Leverage the popularity of sweet bean bread** with promos and variations. 
 - **Optimize inventory** based on peak days and times. 
-- **Promote Tuesdays** to boost low traffic. 
+- **Promote Monday and Tuesdays** to boost low traffic. 
 - **Review underperforming products** to cut losses or improve marketing. 
 
 ## 📁 Files 
